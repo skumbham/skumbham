@@ -8,11 +8,11 @@
 A Passionate Data Scientist pursuing an M.S. in Data Science at Syracuse University, I am dedicated to applying machine learning, data analysis, and my robust technical skills to address real-world challenges.
 
 ## Education
-- **Syracuse University, School of Information Studies**  
+- [**Syracuse University, School of Information Studies**](https://www.syracuse.edu/)  
   Master of Science | Data Science  
   Relevant Coursework: Data Administration, Machine Learning, Business Analytics, NLP, Text Mining, Cloud Management.
 
-- **Jawaharlal Nehru Technological University**  
+- [**Jawaharlal Nehru Technological University, Hyderabad**](https://jntuh.ac.in/)  
   Bachelor of Technology | Electrical and Electronics Engineering  
   Relevant Coursework: Artificial Intelligence, Cyber Security, Economics, Entrepreneurship, Deep Learning.
 
