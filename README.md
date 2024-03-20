@@ -1,7 +1,5 @@
-# Shoumik Reddy Kumbham
-
 ## About Me
-I'm Shoumik, a passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
+Hi! I'm Shoumik, a passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
 
 ## Education
 - **Syracuse University, School of Information Studies**  
