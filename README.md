@@ -1,6 +1,7 @@
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/shoumikreddy17/))
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" />](https://instagram.com/yourusername)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://facebook.com/yourusername)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/shoumikreddy17/)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" />](https://www.instagram.com/shoumik_reddy17/)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/shoumik.reddy.7/)
+
 
 <br />
 
