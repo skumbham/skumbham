@@ -1,7 +1,7 @@
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yourusername/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />](https://instagram.com/yourusername)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" />](https://instagram.com/yourusername)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://facebook.com/yourusername)
 
 <br />
