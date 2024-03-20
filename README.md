@@ -17,7 +17,7 @@ A Passionate Data Scientist pursuing an M.S. in Data Science at Syracuse Univers
   Relevant Coursework: Artificial Intelligence, Cyber Security, Economics, Entrepreneurship, Deep Learning.
 
 ## Experience
-- **Research Project Intern at Defence Research & Development Organisation**  
+- [**Research Project Intern at Defence Research & Development Organisation (RCI)**](https://www.drdo.gov.in/drdo/labs-and-establishments/research-centre-imarat-rci)  
   Focused on optimizing wireless power transfer systems, applying advanced data analysis to enhance efficiency.
 
 ## Technical Skills
