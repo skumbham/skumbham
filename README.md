@@ -1,13 +1,11 @@
-## Connect with me:
-
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yourusername/)
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" />](https://instagram.com/yourusername)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://facebook.com/yourusername)
 
 <br />
 
-## About Me
-Hi! I'm Shoumik, a passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
+## Hi! I'm Shoumik 👋🏻
+A passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
 
 ## Education
 - **Syracuse University, School of Information Studies**  
