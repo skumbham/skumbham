@@ -5,7 +5,7 @@
 <br />
 
 ### Hi! I'm Shoumik 👋🏻
-A passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Technology from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
+A Passionate Data Scientist pursuing an M.S. in Data Science at Syracuse University. Leveraging machine learning, data analysis, and a strong technical foundation to solve real-world problems through data.
 
 ## Education
 - **Syracuse University, School of Information Studies**  
