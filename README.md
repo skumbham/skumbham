@@ -1,3 +1,11 @@
+## Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yourusername/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />](https://instagram.com/yourusername)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://facebook.com/yourusername)
+
+<br />
+
 ## About Me
 Hi! I'm Shoumik, a passionate Data Scientist currently pursuing my Master of Science in Data Science at Syracuse University, with a strong foundation in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University. I am skilled in a variety of programming languages, frameworks, and data science tools, and I have a proven track record of leveraging these skills to solve complex problems and drive meaningful insights.
 
@@ -20,11 +28,6 @@ Hi! I'm Shoumik, a passionate Data Scientist currently pursuing my Master of Sci
 - **Programming/DBMS/Dev**: Python, C, C++, SQL, PHP, Django, HTML, CSS, JavaScript, Haskell, Bash.
 - **Frameworks/Libraries**: Scikit-Learn, Keras, PyTorch, Apache Spark, Apache Kafka, Pandas, NLTK, Matplotlib, XGBoost, Git.
 - **Data Science Tools**: AWS S3, AWS Athena, AWS Sagemaker, Glue, Apache Airflow, Databricks, Kubernetes, Jupyter Notebook, Tableau.
-
-## Projects
-- **COVID-19 Immunity Database Management System**: Developed a centralized SQL database to store and manage COVID-19 immunity data, including an intuitive web interface for easy access and interaction.
-- **Health Management Organization Analysis**: Leveraged RStudio and Random Forest models to analyze healthcare data, providing insights that could potentially save significant costs annually.
-- **Hand Gesture Controlled Robot (Robotic Arm)**: Designed a gesture-responsive robotic arm, integrating various technologies and machine learning algorithms to achieve efficient and accurate gesture detection.
 
 ## Certifications
 - IBM Data Science Professional Certificate
