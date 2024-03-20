@@ -32,3 +32,4 @@ A Passionate Data Scientist pursuing an M.S. in Data Science at Syracuse Univers
 - IBM Data Science Professional Certificate
 - Google Data Analytics Certification
 - Snowflake Data Warehouse Hands-On Essentials
+- Microsoft Certified: Azure Fundamentals (AZ-900)
