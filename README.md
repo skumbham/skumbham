@@ -5,7 +5,7 @@
 <br />
 
 ### Hi! I'm Shoumik 👋🏻
-A Passionate Data Scientist pursuing an M.S. in Data Science at Syracuse University, I am dedicated to applying machine learning, data analysis, and my robust technical skills to address real-world challenges.
+A Data Science major at Syracuse University, passionately guided by the mantra "data is the new oil." Every day, I delve into the fascinating world of data, where each row and number tells a unique story about a person or a real-world challenge. I thrive on uncovering patterns, extracting insights, and forecasting outcomes from these data narratives. Feature engineering is my playground, where I experiment and innovate to refine predictions to near perfection. My expertise extends to leveraging cutting-edge technologies, transforming complex data into compelling visualizations that empower management to make informed, impactful decisions. This journey through data is not just my education; it's my passion, driving me to explore, discover, and make a difference one dataset at a time.
 
 ## Education
 - [**Syracuse University, School of Information Studies**](https://www.syracuse.edu/)  
