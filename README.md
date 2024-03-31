@@ -27,9 +27,11 @@ A Data Science major at Syracuse University, passionately guided by the mantra "
 
 ## Certifications
 - IBM Data Science Professional Certificate
+- Azure Fundamentals (AZ-900)
+- Azure AI Fundamentals (AI-900)
 - Google Data Analytics Certification
 - Snowflake Data Warehouse Essentials
-- Azure Fundamentals (AZ-900)
+
 
 ### Explore My Work
 For more about my projects and achievements, visit my [portfolio](https://shoumikreddy1732.wixsite.com/shoumik-portfolio).
