@@ -34,4 +34,4 @@ A Data Science major at Syracuse University, passionately guided by the mantra "
 
 
 ### Explore My Work
-For more about my projects and achievements, visit my [portfolio](https://shoumikreddy1732.wixsite.com/shoumik-portfolio).
+For more about my projects and achievements, visit my [portfolio](https://shoumikkumbham.com/).
